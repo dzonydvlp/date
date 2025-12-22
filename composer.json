@@ -1,8 +1,8 @@
 {
-    "name": "jenssegers/date",
+    "name": "dzonydvlp/date",
     "description": "A date library to help you work with dates in different languages",
     "keywords": ["laravel", "date", "time", "datetime", "i18n", "translation", "carbon"],
-    "homepage": "https://github.com/jenssegers/date",
+    "homepage": "https://github.com/dzonydvlp/date",
     "license" : "MIT",
     "authors": [
         {
@@ -15,7 +15,7 @@
     },
     "require-dev": {
         "phpunit/phpunit": "^10.4.0",
-        "php-coveralls/php-coveralls": "^2.7"
+        "php-coveralls/php-coveralls": "^2.7|^3.0"
     },
     "autoload": {
         "psr-4": {
